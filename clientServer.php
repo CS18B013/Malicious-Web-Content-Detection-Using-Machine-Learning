@@ -14,6 +14,7 @@ $bytes=file_put_contents('markup.txt', $html);
 //$decision=exec("$python_path test.py $site 2>&1 ");
 
 // Replace the path with the path of your python2.x installation.
-$decision=exec("/Library/Frameworks/Python.framework/Versions/2.7/bin/python2 test.py $site 2>&1 ");
+$decision=exec("C:\Users\'\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9 test.py $site 2>&1 ");
 echo $decision;
 ?>
+
