@@ -24,7 +24,7 @@ import sys
 from patterns import *
 
 # Path of your local server. Different for different OSs.
-LOCALHOST_PATH = "C:\inetpub\wwwroot\"
+LOCALHOST_PATH = "C:/inetpub/wwwroot/"
 DIRECTORY_NAME = "Malicious-Web-Content-Detection-Using-Machine-Learning"
 
 
